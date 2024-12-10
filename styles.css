@@ -1,0 +1,31 @@
+.s{
+    height: 650px;
+    width: 400px;
+    background-color:#1f1f1f;
+    display:inline-block;
+    margin-top:80px;
+    border-radius: 10px;
+}
+.s1{
+    background-color:#141414;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    background-color: #333333;
+    color:#d9d9d9;
+    margin-top: 10px;
+    outline: none;
+    padding: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right,#3a3a3a,#333333);
+    border: none;
+}
+img{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px
+}
